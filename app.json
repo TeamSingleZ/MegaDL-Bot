@@ -7,9 +7,9 @@
         "telegram",
         "mega.nz bot"
     ],
-    "website": "https://www.safone.tech",
-    "repository": "https://github.com/AsmSafone/MegaDL-Bot",
-    "success_url": "https://t.me/AsmSafone",
+    "website": "https:// Github.com/TeamSingleZ/MegaDL-Bot",
+    "repository": "https://github.com/TeamSingleZ/MegaDL-Bot",
+    "success_url": "https://t.me/SlapTapBots",
     "env": {
         "API_ID": {
             "description": "Your API_ID from my.telegram.org",
@@ -28,11 +28,11 @@
             "required": true
         },
         "LOG_CHANNEL": {
-            "description": "Logs Channel ID for some tracking XD. Get it from @Find_TGIDbot",
+            "description": "Logs Channel ID for some tracking XD. Get it from @GoogleIMGBOT",
             "required": true
         },
         "UPDATES_CHANNEL": {
-            "description": "Updates Channel ID For ForceSub Asap. Get it from @Find_TGIDbot",
+            "description": "Updates Channel ID For ForceSub Asap. Get it from @GOOGLEIMGBOT",
             "required": false
         }
     },
